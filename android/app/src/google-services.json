@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668862415614",
+    "firebase_url": "https://kaban-59f96.firebaseio.com",
+    "project_id": "kaban-59f96",
+    "storage_bucket": "kaban-59f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668862415614:android:36bb4437346696fea6dbaf",
+        "android_client_info": {
+          "package_name": "com.itpromotion.kaban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668862415614-lqs4sfdeom51g88ckotnnntjirneglc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itpromotion.kaban",
+            "certificate_hash": "faa667e88b626cf336b352b77e9954d30b89e8dc"
+          }
+        },
+        {
+          "client_id": "668862415614-7i34gs89e4ctkilhcjhbnuikl65j2shb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4VWg7Vvl0L6EXh8QCQEr9bYGkMD6H2EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668862415614-7i34gs89e4ctkilhcjhbnuikl65j2shb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
